@@ -1,3 +1,4 @@
 /StatusPageIO/bin
 /StatusPageIO/obj
 /*.suo
+/StatusPageIO/*.user
