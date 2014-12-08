@@ -4,7 +4,7 @@
 
 ---
 
-[![](http://img.shields.io/badge/release-1.0.0-green.svg)](https://github.com/KoffeinFlummi/AGM/releases) [![](http://img.shields.io/badge/download-11 kb-blue.svg)](https://github.com/KoffeinFlummi/AGM/releases/download/v0.94.1/AGM_v0.94.1.rar) [![](http://img.shields.io/badge/license-GPLv3-red.svg)](https://github.com/KoffeinFlummi/AGM/blob/master/LICENSE)
+![](http://img.shields.io/badge/release-1.0.0-green.svg) ![](http://img.shields.io/badge/download-11%20kb-blue.svg) ![](http://img.shields.io/badge/license-GPLv3-red.svg)
 
 
 
