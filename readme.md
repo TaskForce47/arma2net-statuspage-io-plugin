@@ -4,6 +4,9 @@
 
 ---
 
+![](http://img.shields.io/badge/release-1.0.0-green.svg) 
+![](http://img.shields.io/badge/download-11%20kb-blue.svg) 
+![](http://img.shields.io/badge/license-GPLv3-red.svg)
 
 
 
