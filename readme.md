@@ -23,28 +23,23 @@ StatusPageIO ["50","test"]
 3. Download arma2net-statuspage-io-plugin [here](https://github.com/TaskForce47/arma2net-statuspage-io-plugin/releases/)
 4. Put the StatusPageIO.dll in @Arma2NET\AddIns\StatusPageio\
 5. Start your server and run the plugin once it will generate a configfile. See below:
->     <?xml version="1.0" encoding="utf-8"?>
->     <StatusPageIOConfigurationList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
->      <Configurations>
->       <StatusPageIOConfiguration>
->        <ApiKey>f8qhkhb0htxeq2zlvs8fnc2ngbjgxvhtgioxhvafe7q82rgl1oo1wsgjq8pgihbf</ApiKey>
->        <PageId>hp70fhj5gmyv</PageId>
->        <MetricId>6ehcxbf18iw4</MetricId>
->        <BaseUri>https://api.statuspage.io/v1</BaseUri>
->        <Identifier>test</Identifier>
->       </StatusPageIOConfiguration>
->      </Configurations>
->     </StatusPageIOConfigurationList>
 
-
-# Roadamp
+        <?xml version="1.0" encoding="utf-8"?>
+        <StatusPageIOConfigurationList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+         <Configurations>
+          <StatusPageIOConfiguration>
+           <ApiKey>f8qhkhb0htxeq2zlvs8fnc2ngbjgxvhtgioxhvafe7q82rgl1oo1wsgjq8pgihbf</ApiKey>
+           <PageId>hp70fhj5gmyv</PageId>
+           <MetricId>6ehcxbf18iw4</MetricId>
+           <BaseUri>https://api.statuspage.io/v1</BaseUri>
+           <Identifier>test</Identifier>
+          </StatusPageIOConfiguration>
+         </Configurations>
+        </StatusPageIOConfigurationList>
+## Roadamp
 
 - we will see what comes next. :)
 
-# Version 1.0.0
-
-[12.12.2014] Initial release.
-
-# Next features
+## Next features
 
 Request them [here](https://github.com/TaskForce47/arma2net-statuspage-io-plugin/issues) !
