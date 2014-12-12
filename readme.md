@@ -3,20 +3,25 @@
 [![release 1.0.0](http://img.shields.io/badge/release-1.0.0-green.svg)](https://github.com/TaskForce47/arma2net-statuspage-io-plugin/releases/)
 [![download 11 kb](http://img.shields.io/badge/download-11%20kb-blue.svg)](https://github.com/TaskForce47/arma2net-statuspage-io-plugin/releases/download/1.0/StatusPageIO.dll)
 [![license GPLv3](http://img.shields.io/badge/license-GPLv3-red.svg)](http://www.gnu.de/documents/gpl.de.html)
-
 # arma2net-statuspage-io-plugin
 
-A arma2net plugin that allows you to stream data to [statuspage.io](https://www.statuspage.io/)
+>A arma2net plugin that allows you to stream data to [statuspage.io](https://www.statuspage.io/)
+
+
+---
+
+### How ?
 
 Through [HttpClient](http://msdn.microsoft.com/library/system.net.http.httpclient.aspx) and the [StatusPage.io metric API](http://doers.statuspage.io/api/v1/metrics/) can arma2net-statuspage-io-plugin stream Information to [statuspage.io](https://www.statuspage.io/).
 
-E.g. Adding this line will Stream data to StatusPage.io 
+E.g. Adding this line will stream data to StatusPage.io 
+
 ```
 StatusPageIO ["50","test"]
 ```
 
 ---
-# Instructions
+### Instructions
 
 1. Download arma2net [here](https://bitbucket.org/Scott_NZ/arma2net/overview)
 2. Install the dependencies of arma2net
@@ -37,10 +42,17 @@ StatusPageIO ["50","test"]
          </Configurations>
         </StatusPageIOConfigurationList>
 
-## Roadamp
+---
+### Roadamp
 
 - we will see what comes next. :)
 
-## Next features
+---
+### Next features
 
-Request them [here](https://github.com/TaskForce47/arma2net-statuspage-io-plugin/issues) !
+- Request them [here](https://github.com/TaskForce47/arma2net-statuspage-io-plugin/issues) !
+
+---
+### Contributors
+- Funkrusha
+- meat
